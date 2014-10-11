@@ -18,4 +18,4 @@ git remote add origin git@github.com:leanribas/fase1.git
 git push origin master
 ```
 
-Arquivo readme.md enviado para o branch master do repositório fase1.git no github
+Arquivo *readme.md* enviado para o _branch_ *master* do repositório fase1.git no github
